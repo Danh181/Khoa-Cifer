@@ -4,8 +4,6 @@
              xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-        
-        
         <Style x:Key="menuTitle" TargetType="TextBlock">
             <Setter Property="Foreground" Value="#97e6c1"/>
             <Setter Property="FontSize" Value="22"/>
@@ -13,6 +11,34 @@
             <Setter Property="Margin" Value="60 30 0 15"/>
         </Style>
 
+        <Style x:Key="QuitButton" TargetType="Button" >
+
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background" Value="#97e6c1"/>
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="60 30 0 15"/>
+        </Style>
+
+        <Style x:Key="SelectFolderButton" TargetType="Button" >
+
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background" Value="#a20730"/>
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="60 30 0 15"/>
+        </Style>
+
+        <Style x:Key="OpenMusicPlayerButton" TargetType="Button" >
+
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="Background" Value="#ADD8E6"/>
+            <Setter Property="FontSize" Value="10"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="60 30 0 15"/>
+        
+        </Style>
+        
         <Style x:Key="menuButton" TargetType="Button">
             <Setter Property="Background" Value="Transparent"/>
             <Setter Property="Foreground" Value="#cfcfcf"/>
@@ -40,8 +66,8 @@
 
                 </Trigger>
             </Style.Triggers>
-            
-            
+
+
         </Style>
 
 
@@ -51,14 +77,14 @@
             <Setter Property="Kind" Value="ChevronRight"/>
             <Setter Property="HorizontalAlignment" Value="Right"/>
             <Setter Property="Visibility" Value="{Binding Path=Tag, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}"/>
-            
+
         </Style>
 
         <Style x:Key="titleText" TargetType="TextBlock">
-            <Setter Property="Foreground" Value="#393939"/>
+            <Setter Property="Foreground" Value="Gray"/>
             <Setter Property="FontSize" Value="36"/>
             <Setter Property="FontWeight" Value="Bold"/>
-            
+
 
         </Style>
 
@@ -94,9 +120,9 @@
             <Setter Property="Height" Value="17"/>
 
         </Style>
-        
-        
-        
+
+
+
         <!--#region Slider Style-->
         <Style x:Key="RepeatButtonTransparent" TargetType="{x:Type RepeatButton}">
             <Setter Property="OverridesDefaultStyle" Value="true"/>
@@ -227,10 +253,10 @@
             <Setter Property="Template" Value="{StaticResource SliderHorizontal}"/>
             <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
         </Style>
-        
+
         <!--#endregion-->
 
     </Application.Resources>
-    
-    
+
+
 </Application>

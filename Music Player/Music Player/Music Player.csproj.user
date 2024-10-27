@@ -7,13 +7,10 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="UserControlls\Playlist.xaml.cs">
+    <Compile Update="UserControls\MusicView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="UserControlls\PopularSong.xaml.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Update="UserControlls\SongItem.xaml.cs">
+    <Compile Update="VideoPlayer.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -21,13 +18,10 @@
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControlls\Playlist.xaml">
+    <Page Update="UserControls\MusicView.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="UserControlls\PopularSong.xaml">
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Update="UserControlls\SongItem.xaml">
+    <Page Update="VideoPlayer.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

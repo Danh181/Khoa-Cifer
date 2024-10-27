@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\
+D:\.net codes\New folder (2)\prn212-music-player-dev\Music Player\Music Player\obj\Debug\net8.0-windows\
 Music_Player
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\App.xaml
-4-2087535583
+D:\.net codes\New folder (2)\prn212-music-player-dev\Music Player\Music Player\App.xaml
+3505240340
 
-9-726084419
-2001300670368
-MainWindow.xaml;UserControlls\Playlist.xaml;UserControlls\PopularSong.xaml;UserControlls\SongItem.xaml;
+10-1181559634
+214-1659320783
+MainWindow.xaml;UserControls\MusicView.xaml;VideoPlayer.xaml;
 
 False
 

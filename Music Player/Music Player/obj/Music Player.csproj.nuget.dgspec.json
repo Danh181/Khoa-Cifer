@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj": {}
+    "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\Music Player.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj": {
+    "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\Music Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
+        "projectUniqueName": "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\Music Player.csproj",
         "projectName": "Music Player",
-        "projectPath": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
-        "packagesPath": "C:\\Users\\danht\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\obj\\",
+        "projectPath": "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\Music Player.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\danht\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,14 @@
             "MahApps.Metro.IconPacks.Material": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.135, )"
+            },
+            "WindowsAPICodePack": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

@@ -10,6 +10,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="UserControlls\**" />
+    <EmbeddedResource Remove="UserControlls\**" />
+    <None Remove="UserControlls\**" />
+    <Page Remove="UserControlls\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="Images\p1.jpg" />
     <None Remove="Images\p2.jpg" />
     <None Remove="Images\p3.jpg" />
@@ -19,7 +26,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Reference Include="System.Windows.Forms" />
     <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.135" />
+    <PackageReference Include="WindowsAPICodePack" Version="8.0.4" />
   </ItemGroup>
 
   <ItemGroup>
