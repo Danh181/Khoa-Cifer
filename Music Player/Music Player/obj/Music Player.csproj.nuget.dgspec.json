@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj": {}
+    "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj": {
+    "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
+        "projectUniqueName": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
         "projectName": "Music Player",
-        "projectPath": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
+        "projectPath": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
         "packagesPath": "C:\\Users\\danht\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\obj\\",
+        "outputPath": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danht\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
             "MahApps.Metro.IconPacks.Material": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.135, )"
             }
           },
           "imports": [

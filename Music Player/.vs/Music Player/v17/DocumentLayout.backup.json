@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\",
+  "WorkspaceRootPath": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|c:\\users\\danht\\desktop\\music player\\music player\\music player\\viewmodel\\songviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\viewmodel\\songviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|c:\\users\\danht\\desktop\\music player\\music player\\music player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|c:\\users\\danht\\desktop\\music player\\music player\\music player\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\usercontrolls\\popularsong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\usercontrolls\\popularsong.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\usercontrolls\\songitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\usercontrolls\\songitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|c:\\users\\danht\\desktop\\music player\\music player\\music player\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\usercontrolls\\playlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\usercontrolls\\playlist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|d:\\code\\dotnet\\music player\\music player\\music player\\music player.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E44E05A2-86F7-4D21-8732-A30744E8785A}|Music Player\\Music Player.csproj|solutionrelative:music player\\music player.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,96 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "App.xaml",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\App.xaml",
-              "RelativeDocumentMoniker": "Music Player\\App.xaml",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\App.xaml",
-              "RelativeToolTip": "Music Player\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T15:13:06.115Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Music Player\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Music Player\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:44:32.781Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SongItem.xaml",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\UserControlls\\SongItem.xaml",
-              "RelativeDocumentMoniker": "Music Player\\UserControlls\\SongItem.xaml",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\UserControlls\\SongItem.xaml",
-              "RelativeToolTip": "Music Player\\UserControlls\\SongItem.xaml",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\App.xaml",
+              "RelativeDocumentMoniker": "Music Player\\App.xaml",
+              "ToolTip": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\App.xaml",
+              "RelativeToolTip": "Music Player\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T15:13:00.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T05:44:04.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PopularSong.xaml",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\UserControlls\\PopularSong.xaml",
-              "RelativeDocumentMoniker": "Music Player\\UserControlls\\PopularSong.xaml",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\UserControlls\\PopularSong.xaml",
-              "RelativeToolTip": "Music Player\\UserControlls\\PopularSong.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T15:12:58.648Z",
+              "DocumentIndex": 0,
+              "Title": "SongViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\ViewModel\\SongViewModel.cs",
+              "RelativeDocumentMoniker": "Music Player\\ViewModel\\SongViewModel.cs",
+              "ToolTip": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\ViewModel\\SongViewModel.cs",
+              "RelativeToolTip": "Music Player\\ViewModel\\SongViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:43:10.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Music Player\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Music Player\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T14:16:32.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Music Player\\MainWindow.xaml",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\MainWindow.xaml",
               "RelativeToolTip": "Music Player\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T14:15:31.623Z",
+              "WhenOpened": "2024-10-24T05:42:59.559Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Playlist.xaml",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\UserControlls\\Playlist.xaml",
-              "RelativeDocumentMoniker": "Music Player\\UserControlls\\Playlist.xaml",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\UserControlls\\Playlist.xaml",
-              "RelativeToolTip": "Music Player\\UserControlls\\Playlist.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-21T13:54:16.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Music Player.csproj",
-              "DocumentMoniker": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
-              "RelativeDocumentMoniker": "Music Player\\Music Player.csproj",
-              "ToolTip": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
-              "RelativeToolTip": "Music Player\\Music Player.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-21T06:21:38.581Z"
             }
           ]
         }
