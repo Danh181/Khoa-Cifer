@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "Music Player/1.0.0": {
         "dependencies": {
-          "MahApps.Metro.IconPacks.Material": "5.0.1"
+          "MahApps.Metro.IconPacks.Material": "5.0.1",
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.135"
         },
         "runtime": {
           "Music Player.dll": {}
@@ -33,6 +34,14 @@
           "lib/net8.0-windows7.0/MahApps.Metro.IconPacks.Material.dll": {
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.1.0"
+          }
+        }
+      },
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.135": {
+        "runtime": {
+          "lib/net6.0-windows7.0/Microsoft.Xaml.Behaviors.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.135.29210"
           }
         }
       },
@@ -65,6 +74,13 @@
       "sha512": "sha512-WHJbIn804tRofDE6ZF+yQZcj/bB2Y2Iv34CM6vPD0WtC7TWxXQZVtBOoCRu4cEXlgJ/u5+tE9FTFeFRO5M4RVQ==",
       "path": "mahapps.metro.iconpacks.material/5.0.1",
       "hashPath": "mahapps.metro.iconpacks.material.5.0.1.nupkg.sha512"
+    },
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.135": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-r8qBEXmQfORso2+MVHnt8PSH4761zJ0SIxgQTSEDVLU97EN2FZdG6/ZCYUPhQy+OrPKgnpYBCAs3PS6Bs7wRsg==",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.135",
+      "hashPath": "microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512"
     },
     "System.Text.Json/8.0.5": {
       "type": "package",
