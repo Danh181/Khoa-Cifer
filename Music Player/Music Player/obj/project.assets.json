@@ -3291,19 +3291,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\danht\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\Music Player.csproj",
+      "projectUniqueName": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
       "projectName": "Music Player",
-      "projectPath": "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\Music Player.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\.net codes\\New folder (2)\\prn212-music-player-dev\\Music Player\\Music Player\\obj\\",
+      "projectPath": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
+      "packagesPath": "C:\\Users\\danht\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\danht\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
