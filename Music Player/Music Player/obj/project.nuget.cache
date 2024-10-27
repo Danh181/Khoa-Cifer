@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "31k20LzIaV4=",
+  "dgSpecHash": "9luRO80gNU0=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\Dotnet\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
+  "projectFilePath": "C:\\Users\\danht\\Desktop\\Music Player\\Music Player\\Music Player\\Music Player.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\danht\\.nuget\\packages\\mahapps.metro.iconpacks.core\\5.0.1\\mahapps.metro.iconpacks.core.5.0.1.nupkg.sha512",
     "C:\\Users\\danht\\.nuget\\packages\\mahapps.metro.iconpacks.material\\5.0.1\\mahapps.metro.iconpacks.material.5.0.1.nupkg.sha512",
