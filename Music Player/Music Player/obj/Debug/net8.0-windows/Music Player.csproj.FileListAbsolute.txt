@@ -1,35 +1,29 @@
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.exe
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.deps.json
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.runtimeconfig.json
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.dll
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.pdb
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
-D:\FALL24\PRN212\New folder\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.AssemblyReference.cache
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.baml
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\App.baml
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\App.g.cs
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player_MarkupCompile.cache
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.g.resources
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.GeneratedMSBuildEditorConfig.editorconfig
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfoInputs.cache
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfo.cs
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.CoreCompileInputs.cache
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Pl.C255A016.Up2Date
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.dll
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\refint\Music Player.dll
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.pdb
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.genruntimeconfig.cache
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\ref\Music Player.dll
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\SongItem.baml
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\SongItem.g.cs
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player_MarkupCompile.lref
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\PopularSong.baml
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\PopularSong.g.cs
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\Playlist.baml
-D:\FALL24\PRN212\New folder\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\Playlist.g.cs
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.exe
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.deps.json
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.runtimeconfig.json
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.pdb
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.AssemblyReference.cache
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.baml
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\App.baml
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\App.g.cs
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player_MarkupCompile.cache
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.g.resources
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfoInputs.cache
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfo.cs
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.CoreCompileInputs.cache
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Pl.C255A016.Up2Date
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\refint\Music Player.dll
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.pdb
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.genruntimeconfig.cache
+D:\CODE\Dotnet\prn212-music-player-danh\prn212-music-player-danh\Music Player\Music Player\obj\Debug\net8.0-windows\ref\Music Player.dll
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.exe
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.deps.json
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.runtimeconfig.json
@@ -37,21 +31,14 @@ D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\M
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\Music Player.pdb
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\bin\Debug\net8.0-windows\System.Text.Json.dll
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.csproj.AssemblyReference.cache
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\Playlist.baml
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\PopularSong.baml
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\SongItem.baml
+D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.baml
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\App.baml
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\Playlist.g.cs
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\PopularSong.g.cs
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\UserControlls\SongItem.g.cs
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\App.g.cs
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player_MarkupCompile.cache
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player_MarkupCompile.lref
-D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\MainWindow.baml
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.g.resources
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.GeneratedMSBuildEditorConfig.editorconfig
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.AssemblyInfoInputs.cache
@@ -63,3 +50,4 @@ D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\r
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.pdb
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.genruntimeconfig.cache
 D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\ref\Music Player.dll
+D:\CODE\Dotnet\Music Player\Music Player\Music Player\obj\Debug\net8.0-windows\Music Player.sourcelink.json

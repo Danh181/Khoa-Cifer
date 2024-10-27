@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <PackageReference Include="MahApps.Metro.IconPacks.Material" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.135" />
   </ItemGroup>
 
   <ItemGroup>
@@ -41,6 +42,10 @@
     <Resource Include="Images\p6.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UserControlls\" />
   </ItemGroup>
 
 </Project>
